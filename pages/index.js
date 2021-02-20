@@ -21,6 +21,18 @@ export default function Home() {
           </Link>
         </p>
 
+        <p>
+          <Link href="/posts/123">
+            Link post 123
+          </Link>
+        </p>
+
+        <p>
+          <Link href="/posts/hello">
+            Link post hello
+          </Link>
+        </p>
+
       </main>
 
       <footer className={styles.footer}>
